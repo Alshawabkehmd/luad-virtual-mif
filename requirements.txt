@@ -1,0 +1,13 @@
+torch
+huggingface_hub
+openslide-python
+openslide-bin
+gcsfs
+numpy
+pandas
+scipy
+scikit-learn
+lifelines
+matplotlib
+Pillow
+openpyxl
