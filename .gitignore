@@ -1,0 +1,11 @@
+*.svs
+*.tif
+*.tiff
+*.pt
+*.pth
+*.safetensors
+data/
+outputs/
+.env
+__pycache__/
+.ipynb_checkpoints/
